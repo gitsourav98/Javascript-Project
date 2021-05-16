@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color:#f1f5f8;
+    align-items: center;
+    justify-content: center;
+}
+main {
+    text-align: center;
+    margin:200px;
+}
+button {
+    padding:10px;
+    margin:5px;
+    background-color: #222;
+    border: 2px solid black;
+    color: #fff;
+}
+button:hover{
+     background-color:#fff;
+     color:#222;
+}
+#counter{
+    font-size: 40px;
+}
